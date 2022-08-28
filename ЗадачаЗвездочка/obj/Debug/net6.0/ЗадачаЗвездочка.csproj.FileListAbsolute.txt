@@ -1,0 +1,15 @@
+D:\Лена\Geekbrains\C#\ДЗ Семинар 2\ЗадачаЗвездочка\obj\Debug\net6.0\ЗадачаЗвездочка.csproj.AssemblyReference.cache
+D:\Лена\Geekbrains\C#\ДЗ Семинар 2\ЗадачаЗвездочка\obj\Debug\net6.0\ЗадачаЗвездочка.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лена\Geekbrains\C#\ДЗ Семинар 2\ЗадачаЗвездочка\obj\Debug\net6.0\ЗадачаЗвездочка.AssemblyInfoInputs.cache
+D:\Лена\Geekbrains\C#\ДЗ Семинар 2\ЗадачаЗвездочка\obj\Debug\net6.0\ЗадачаЗвездочка.AssemblyInfo.cs
+D:\Лена\Geekbrains\C#\ДЗ Семинар 2\ЗадачаЗвездочка\obj\Debug\net6.0\ЗадачаЗвездочка.csproj.CoreCompileInputs.cache
+D:\Лена\Geekbrains\C#\ДЗ Семинар 2\ЗадачаЗвездочка\bin\Debug\net6.0\ЗадачаЗвездочка.exe
+D:\Лена\Geekbrains\C#\ДЗ Семинар 2\ЗадачаЗвездочка\bin\Debug\net6.0\ЗадачаЗвездочка.deps.json
+D:\Лена\Geekbrains\C#\ДЗ Семинар 2\ЗадачаЗвездочка\bin\Debug\net6.0\ЗадачаЗвездочка.runtimeconfig.json
+D:\Лена\Geekbrains\C#\ДЗ Семинар 2\ЗадачаЗвездочка\bin\Debug\net6.0\ЗадачаЗвездочка.dll
+D:\Лена\Geekbrains\C#\ДЗ Семинар 2\ЗадачаЗвездочка\bin\Debug\net6.0\ЗадачаЗвездочка.pdb
+D:\Лена\Geekbrains\C#\ДЗ Семинар 2\ЗадачаЗвездочка\obj\Debug\net6.0\ЗадачаЗвездочка.dll
+D:\Лена\Geekbrains\C#\ДЗ Семинар 2\ЗадачаЗвездочка\obj\Debug\net6.0\refint\ЗадачаЗвездочка.dll
+D:\Лена\Geekbrains\C#\ДЗ Семинар 2\ЗадачаЗвездочка\obj\Debug\net6.0\ЗадачаЗвездочка.pdb
+D:\Лена\Geekbrains\C#\ДЗ Семинар 2\ЗадачаЗвездочка\obj\Debug\net6.0\ЗадачаЗвездочка.genruntimeconfig.cache
+D:\Лена\Geekbrains\C#\ДЗ Семинар 2\ЗадачаЗвездочка\obj\Debug\net6.0\ref\ЗадачаЗвездочка.dll
